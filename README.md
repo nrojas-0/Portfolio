@@ -1,4 +1,3 @@
-# Portfolio
 # 🌸 Nancy Rojas — Personal Portfolio Website 💻
 
 ## 🎀 Live Preview
