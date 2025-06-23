@@ -4,21 +4,37 @@ body{
     margin: 0;
     padding: 0;
 }
-.navbar{
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    background-color: #ff66c4;
-    text-decoration: none;
+/* Whole navbar container */
+.navbar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  padding: 0 3.5rem;
+  background-color: #ff66c4;
+}
 
+/* Logo image */
+.logo {
+  height: 40px;
+  width: auto;
 }
-.navbar a{
-    color:#ffffff
+
+/* ONLY center the nav links */
+.nav-links {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 2rem;
 }
-.navbar a:visited {
+
+/* Links inside nav */
+.nav-links a {
+  color: #ffffff;
   text-decoration: none;
+  font-weight: 900;
 }
-
 
 .site-footer {
   background-color: #ff66c4; /* light blue */
