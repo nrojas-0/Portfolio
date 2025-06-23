@@ -5,8 +5,9 @@ body{
     padding: 20px;
 }
 .site-footer {
-    background-color: #4b29d0;
-    color: #ec0e0e;
-    text-align: center;
-    padding: 10px 0;
+  background-color: #fce4ec; /* light pink */
+  color: #4a148c;            /* deep purple text */
+  text-align: center;
+  padding: 1rem;
+  font-family: 'Arial', sans-serif;
 }
