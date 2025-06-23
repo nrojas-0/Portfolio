@@ -7,11 +7,11 @@
 
 ## 📬 Let's Connect!
 
-📧 Email: [your.email@gmail.com](mailto:nancylurojas2025@gmail.com)
+📧 Email: [nancylurojas2025@gmail.com](mailto:nancylurojas2025@gmail.com)
 
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/nancy--rojas)
+💼 LinkedIn: [linkedin.com/in/nancy--rojas](https://linkedin.com/in/nancy--rojas)
 
-🐙 GitHub: [github.com/yourusername](https://github.com/nrojas-0)
+👾 GitHub: [github.com/nrojas-0](https://github.com/nrojas-0)
 
 ---
 
