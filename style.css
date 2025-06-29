@@ -1,6 +1,7 @@
 body{
+    font-family: fraunces, Arial, Gerogia;
+    font-size: 10px;
     background-color: #b8ddf8;
-    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -48,4 +49,20 @@ body{
   width: 18px;
   vertical-align: middle;
   margin-right: 6px;
+}
+
+.Contact_Sec h1 { /*centers header for section*/
+    text-align: center;
+    font-size: 35px;
+}
+.Contact_Sec h2 { /*centers header for section*/
+    margin-left: 200px;
+    font-size: 25px;
+
+
+}
+.Contact_LINKS{ /*Places section on left side over 200px*/
+  margin-left: 200px;
+  font-size: 12px;
+
 }
