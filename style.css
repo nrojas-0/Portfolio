@@ -82,3 +82,20 @@ body{
 .Exp-Listed{
   text-align: center;
 }
+
+/*------------------------------------ PAGE:Projects ---------------------------------- */
+.card{
+  color: #fef4ff;
+  padding: 2em;
+  border: 1px solid rgb(75, 82, 92);
+  border-radius: 10px;
+  background-color: #222429;
+  text-align: center;
+}
+.grid-container{
+  display: grid;
+  border: #ff66c4;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 15px;
+  justify-content: center;
+}
