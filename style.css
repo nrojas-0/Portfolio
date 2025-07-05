@@ -1,7 +1,7 @@
 body{
     font-family: fraunces, Arial, Gerogia;
     font-size: 10px;
-    background-color: #b8ddf8;
+    background-color: #fef4ff;
     margin: 0;
     padding: 0;
 }
@@ -65,4 +65,20 @@ body{
   margin-left: 200px;
   font-size: 12px;
 
+}
+/*------------------------------------ PAGE:EXPERIENCE ---------------------------------- */
+.Experience-header-section {
+    background-image: url(Pictures/bk-temp.png);
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.page-name {
+    color: #ffffff;
+}
+
+.Exp-Listed{
+  text-align: center;
 }
