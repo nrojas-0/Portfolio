@@ -68,22 +68,47 @@ body{
 }
 /*------------------------------------ PAGE:EXPERIENCE ---------------------------------- */
 .Experience-header-section {
-    background-image: url(Pictures/bk-temp.png);
+    /*background-image: url(Pictures/cooltex.png);
     background-size: cover;
     background-position: center;
+    */
     padding: 20px;
     text-align: center;
 }
 
 .page-name {
-    color: #ffffff;
+    color: #d20f64;
 }
 
 .Exp-Listed{
   text-align: center;
+  background-color: #b4fff5;  
+}
+.Exp-Listed h2{
+  font-family: 'Mina',fraunces, Arial, Gerogia;
+}
+.experience-divider {
+    width: 70%;            /* Adjust as needed */
+    border: none;
+    border-top: .5px solid #000000;
+}
+.tools-results-row {
+  display: flex;
+  justify-content: space-between; /* or space-around / center */
+  gap: 20px; /* Optional spacing between Tools and Results */
 }
 
+.tools-section,
+.results-section {
+  flex: 1; /* Makes both columns take equal space */
+}
+
+
 /*------------------------------------ PAGE:Projects ---------------------------------- */
+.Projects-header-section{
+  text-align: center;
+  font-size: 16px;
+}
 .card{
   color: #fef4ff;
   padding: 2em;
@@ -91,6 +116,8 @@ body{
   border-radius: 10px;
   background-color: #222429;
   text-align: center;
+
+
 }
 .grid-container{
   display: grid;
@@ -99,3 +126,7 @@ body{
   gap: 15px;
   justify-content: center;
 }
+
+
+/*------------------------------------ PAGE:ABOUT ---------------------------------- */
+.p
