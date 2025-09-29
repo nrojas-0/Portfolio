@@ -52,15 +52,6 @@ body{
   margin-right: 6px;
 }
 
-.Contact_Sec h1 { /*centers header for section*/
-    text-align: center;
-    font-size: 35px;
-}
-.Contact_Sec h2 { /*centers header for section*/
-    margin-left: 200px;
-    font-size: 25px;
-
-
 }
 /*------------------------------------ PAGE:EXPERIENCE ---------------------------------- */
 .Experience-header-section {
