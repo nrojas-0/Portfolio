@@ -62,15 +62,6 @@ body{
 
 
 }
-.Contact_LINKS{ /*Places section on left side over 200px*/
-  margin-left: 200px;
-  font-size: 12px;
-
-}
-.Contact_LINKS img{
-  width: 500px;
-  height: 500px;
-}
 /*------------------------------------ PAGE:EXPERIENCE ---------------------------------- */
 .Experience-header-section {
     /*background-image: url(Pictures/cooltex.png);
