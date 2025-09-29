@@ -130,20 +130,3 @@ body{
 
 
 /*------------------------------------ PAGE:ABOUT ---------------------------------- */
-.welcome-banner {
-  width: 100%;
-  overflow: hidden;
-}
-
-.welcome-banner img {
-  width: 100%;
-  height: auto;
-  display: block;
-  
-}
-
-.person {
-  position: relative;
-  display: flex;
-  left: 700px;
-}
