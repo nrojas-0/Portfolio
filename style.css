@@ -164,6 +164,7 @@ body{
 
 .NAVBAR nav a.active {
   text-decoration: underline;
+  color: #b4fff5;
 }
 
 /* About Section */
