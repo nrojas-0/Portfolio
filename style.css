@@ -144,6 +144,7 @@ body{
   justify-content: space-between;
   align-items: center;
   background: #ff66b3;
+  /*background: #002e5c;*/
   padding: 15px 40px;
 }
 
@@ -208,6 +209,21 @@ body{
   color: white;
 }
 
+.about-banner2 {
+    width: 100%;              /* Take full width of the page */
+    max-width: 100%;          /* Prevent overflow */
+    overflow: hidden;         /* Hide anything outside if needed */
+}
+
+.about-banner2 img {
+    width: 100%;              /* Make image scale to container width */
+    height: auto;             /* Maintain aspect ratio */
+    display: block;           /* Remove small bottom spacing */
+    object-fit: contain;      /* Show full image without cropping */
+}
+
+
+
 /*THIS FIXES DISPLAY FOR SMALLER SCREENS - NEED TO TEST?*/
 /* should stack on smaller screens */
 @media (max-width: 768px) {
@@ -220,3 +236,6 @@ body{
     max-width: 80%;
   }
 }
+
+/*------------------------------------ index page------------------------------------ */
+
